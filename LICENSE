@@ -1,0 +1,62 @@
+Meterkat
+Copyright (c) 2026 Fabian Dürkop. All rights reserved.
+
+The files published in this repository's releases (the Meterkat desktop companion) are proprietary
+freeware: free to use under the Meterkat End User Licence Agreement below, also published at
+https://meterkat.fabian-duerkop.de/terms (English) and https://meterkat.fabian-duerkop.de/de/nutzungsbedingungen (German).
+Third-party components keep their own licences: run `meterkat licenses`, or see THIRD_PARTY_NOTICES.txt in
+the Linux archives.
+
+────────────────────────────────────────────────────────────────────────────
+
+# Meterkat End User Licence Agreement
+
+Deutsche Fassung [unten](#meterkat-endnutzer-lizenzvertrag). Also at https://meterkat.fabian-duerkop.de/terms and https://meterkat.fabian-duerkop.de/de/nutzungsbedingungen.
+
+## English
+
+Version 1.0, 22 October 2026.
+
+Meterkat consists of the Android app, the desktop companion for Windows and Linux, and the hosted relay service at `meterkat-relay.fabian-duerkop.de` ("Meterkat"). It is provided by Fabian Dürkop ("the provider"; contact details in the [imprint](https://meterkat.fabian-duerkop.de/imprint)). By installing or using Meterkat you accept these terms. If you do not accept them, do not install or use it.
+
+1. **Free licence.** Meterkat is free of charge. The provider grants you a non-exclusive, non-transferable, revocable licence to install and use Meterkat for private and professional purposes, on as many devices as you like.
+2. **What you may not do.** Unless mandatory law allows it, you may not:
+   - redistribute, sell, rent or sublicense Meterkat or make it available for download elsewhere. Point others to the official sources: Google Play and `github.com/Fade97/meterkat-releases`;
+   - modify, translate or create derivative works of Meterkat;
+   - decompile, disassemble or reverse engineer Meterkat. This does not limit what the law expressly permits, in particular §§ 69d and 69e of the German Copyright Act (UrhG) for interoperability;
+   - remove copyright notices, or misuse the relay service, for example by overloading it, bypassing its limits or using it for anything other than Meterkat.
+3. **Open-source components.** Meterkat contains third-party components under their own licences (shown in the app under About → Open-source licences, and by `meterkat licenses` on the companion). Those licences apply to those components and take precedence over these terms for them.
+4. **Third-party services.** Meterkat reads usage reports from tools of Anthropic, OpenAI and Google that you have installed and signed in to yourself. Their terms continue to apply. Meterkat is not affiliated with or endorsed by these companies.
+5. **Relay service.** The hosted relay is a free service without any guaranteed availability. The provider may change, limit or discontinue it at any time; data is deleted as described in the privacy policy. You can run Meterkat with your own relay instead.
+6. **No warranty.** Meterkat is provided "as is", free of charge. The provider does not warrant that it is error-free, that it runs without interruption, or that the displayed values are complete, correct or up to date. Do not rely on Meterkat for billing or business-critical decisions. Statutory rights for defects that the provider fraudulently concealed are unaffected.
+7. **Liability.** The provider is liable without limitation for intent and gross negligence, for injury to life, body or health, and under the German Product Liability Act. Otherwise, because Meterkat is provided free of charge, liability for slight negligence is excluded as far as the law permits.
+8. **Privacy.** Personal data is processed as described in the [privacy policy](https://meterkat.fabian-duerkop.de/privacy).
+9. **Updates and changes.** The companion updates itself unless you turn that off; the app updates through Google Play. The provider may change these terms for future versions; the version that came with your copy applies to it.
+10. **Termination.** You can stop using Meterkat at any time by uninstalling it. Your licence ends automatically if you breach these terms.
+11. **Applicable law.** German law applies, excluding the UN Convention on Contracts for the International Sale of Goods. If you are a consumer, the mandatory consumer protection rules of the country where you live remain unaffected. If a provision is invalid, the rest remains in force.
+
+In case of doubt, the German version prevails.
+
+## Meterkat-Endnutzer-Lizenzvertrag
+
+Fassung 1.0 vom 22. Oktober 2026.
+
+Meterkat besteht aus der Android-App, dem Desktop-Begleiter für Windows und Linux und dem gehosteten Relay-Dienst unter `meterkat-relay.fabian-duerkop.de` („Meterkat“). Anbieter ist Fabian Dürkop („der Anbieter“; Kontaktdaten im [Impressum](https://meterkat.fabian-duerkop.de/de/impressum)). Mit der Installation oder Nutzung von Meterkat akzeptieren Sie diese Bedingungen. Wenn Sie sie nicht akzeptieren, installieren und nutzen Sie Meterkat bitte nicht.
+
+1. **Kostenlose Lizenz.** Meterkat ist kostenlos. Der Anbieter räumt Ihnen ein einfaches, nicht übertragbares, widerrufliches Recht ein, Meterkat privat und beruflich auf beliebig vielen Geräten zu installieren und zu nutzen.
+2. **Was nicht erlaubt ist.** Soweit zwingendes Recht nichts anderes erlaubt, dürfen Sie Meterkat nicht:
+   - weitergeben, verkaufen, vermieten, unterlizenzieren oder an anderer Stelle zum Download anbieten. Verweisen Sie stattdessen auf die offiziellen Quellen Google Play und `github.com/Fade97/meterkat-releases`;
+   - verändern, übersetzen oder Bearbeitungen davon erstellen;
+   - dekompilieren, disassemblieren oder auf andere Weise zurückentwickeln. Was das Gesetz ausdrücklich erlaubt, insbesondere §§ 69d und 69e UrhG zur Herstellung der Interoperabilität, bleibt unberührt;
+   - von Urheberrechtsvermerken befreien. Ebenso dürfen Sie den Relay-Dienst nicht missbrauchen, etwa durch Überlastung, Umgehen seiner Grenzen oder Nutzung für andere Zwecke als Meterkat.
+3. **Open-Source-Bestandteile.** Meterkat enthält Bestandteile Dritter unter deren eigenen Lizenzen (in der App unter Über die App → Open-Source-Lizenzen, im Begleiter mit `meterkat licenses`). Für diese Bestandteile gelten deren Lizenzen vorrangig.
+4. **Dienste Dritter.** Meterkat liest Nutzungsberichte aus Programmen von Anthropic, OpenAI und Google, die Sie selbst installiert und angemeldet haben. Deren Bedingungen gelten weiter. Meterkat steht in keiner Verbindung zu diesen Unternehmen und wird von ihnen nicht unterstützt.
+5. **Relay-Dienst.** Der gehostete Relay ist ein kostenloser Dienst ohne zugesicherte Verfügbarkeit. Der Anbieter darf ihn jederzeit ändern, einschränken oder einstellen; Daten werden wie in der Datenschutzerklärung beschrieben gelöscht. Sie können Meterkat stattdessen mit einem eigenen Relay betreiben.
+6. **Keine Gewährleistung.** Meterkat wird kostenlos und so, wie es ist, bereitgestellt. Der Anbieter sichert nicht zu, dass es fehlerfrei oder unterbrechungsfrei läuft oder dass die angezeigten Werte vollständig, richtig oder aktuell sind. Verlassen Sie sich für Abrechnungen oder geschäftskritische Entscheidungen nicht auf Meterkat. Die gesetzliche Haftung für arglistig verschwiegene Mängel bleibt unberührt.
+7. **Haftung.** Der Anbieter haftet unbeschränkt bei Vorsatz und grober Fahrlässigkeit, bei Verletzung von Leben, Körper oder Gesundheit sowie nach dem Produkthaftungsgesetz. Im Übrigen ist die Haftung für leichte Fahrlässigkeit, da Meterkat unentgeltlich überlassen wird, ausgeschlossen, soweit gesetzlich zulässig.
+8. **Datenschutz.** Personenbezogene Daten werden wie in der [Datenschutzerklärung](https://meterkat.fabian-duerkop.de/de/datenschutz) beschrieben verarbeitet.
+9. **Updates und Änderungen.** Der Begleiter aktualisiert sich selbst, solange Sie das nicht abschalten; die App wird über Google Play aktualisiert. Der Anbieter kann diese Bedingungen für künftige Versionen ändern; für Ihre Kopie gilt die Fassung, die ihr beilag.
+10. **Beendigung.** Sie können die Nutzung jederzeit durch Deinstallation beenden. Bei einem Verstoß gegen diese Bedingungen endet Ihre Lizenz automatisch.
+11. **Anwendbares Recht.** Es gilt deutsches Recht unter Ausschluss des UN-Kaufrechts. Als Verbraucherin oder Verbraucher behalten Sie den Schutz der zwingenden Vorschriften des Staates, in dem Sie Ihren gewöhnlichen Aufenthalt haben. Sollte eine Bestimmung unwirksam sein, bleiben die übrigen wirksam.
+
+Im Zweifel gilt die deutsche Fassung.
