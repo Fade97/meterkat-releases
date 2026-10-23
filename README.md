@@ -1,5 +1,7 @@
 # Meterkat companion releases
 
+> **Moved.** New companion releases (1.0.2 and later) are published in **[Fade97/meterkat-companion](https://github.com/Fade97/meterkat-companion/releases)**, together with the source code. This repository is archived and keeps 1.0.0 and 1.0.1 for reference.
+
 Meterkat shows your Claude, Codex and Antigravity usage limits in an Android widget and notification. The **desktop companion** runs on the computer where those tools are signed in and sends end-to-end encrypted snapshots to your phone. Website and setup help: **https://meterkat.fabian-duerkop.de**.
 
 This repository only hosts the signed companion binaries. The source code is open source under the MIT licence at **[Fade97/meterkat-companion](https://github.com/Fade97/meterkat-companion)**, whose release workflow builds these files (from 1.0.2 on with a build-provenance attestation, see below). Licence: [MIT](LICENSE); 1.0.0 and 1.0.1 still embed the earlier freeware terms but are now MIT-licensed too. The hosted relay the companion uses by default is a separate free service under its [terms of use](https://meterkat.fabian-duerkop.de/terms).
